@@ -21,8 +21,9 @@ The dashboard provides key insights such as:
 - Salary level also influences attrition trends
 
 ## 🛠 Tools Used
-- **Power BI**
-- **Microsoft Excel (Dataset)**
+Power BI
+DAX
+Excel / CSV dataset
 
 ## 📁 Files in this Repository
 - `.pbix` → Power BI dashboard file  
